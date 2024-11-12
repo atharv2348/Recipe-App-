@@ -25,3 +25,10 @@ Recipe Details: View detailed instructions, ingredients, and other information f
    ```bash
    npx expo start --android # For Android
    npx expo start --ios # For iOS
+
+
+## Demo Video
+
+https://github.com/user-attachments/assets/7afacce8-aeac-475b-88a8-aadf0bce3197
+
+
