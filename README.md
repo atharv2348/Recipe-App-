@@ -4,9 +4,10 @@ Through this application users discover and search for recipes from a variety of
 the app utilizes the MealDB API for recipe data and displays recipes in a visually appealing Masonry grid layout.
 
 ## Features
-Recipe Browsing: Explore a variety of recipes displayed in a Masonry-style grid.
-Search Recipes: Find recipes by entering keywords or ingredients.
-Recipe Details: View detailed instructions, ingredients, and other information for each recipe.
+
+**Recipe Browsing**: Explore a variety of recipes displayed in a Masonry-style grid.  
+**Search Recipes**: Find recipes by entering keywords or ingredients.  
+**Recipe Details**: View detailed instructions, ingredients, and other information for each recipe.  
 
 ## Getting Started
 
